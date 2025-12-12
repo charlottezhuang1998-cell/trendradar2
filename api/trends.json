@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T13:46:04.435299+08:00",
-  "total_titles_processed": 1062,
+  "generated_at": "2025-12-12T15:01:22.955471+08:00",
+  "total_titles_processed": 1172,
   "failed_sources": [],
   "trends": [
     {
@@ -40,19 +40,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时01分]"
         },
         {
           "title": "特朗普拉小群,想拿C5替代G7",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
           "source": "贴吧",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时01分]"
         },
         {
           "title": "美国总统特朗普：周六有个会议，我们看看要不要参加。如果我们认为有很好的机会（达成乌克兰和平协议），我们会参加。",
@@ -64,6 +65,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1982382027627073644",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 15时01分]"
+        },
+        {
+          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
+          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 15时01分]"
         },
         {
           "title": "美国总统特朗普：我们将协助乌克兰的安全事务。我曾经以为我们已经接近达成协议了。",
@@ -119,28 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
-        },
-        {
-          "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1982382027627073644",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 13时46分]"
-        },
-        {
-          "title": "特朗普破大妨：美国AI电力遥遥领先，都归功于我",
-          "url": "https://news.ifeng.com/c/8p1EpDusf8A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 13时46分]"
         },
         {
           "title": "特朗普抱怨从拜登处继承了烂摊子 质疑其取得的成就何时能取得认可",
@@ -639,8 +641,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时38分 ~ 13时46分]"
+          "appearance_count": 8,
+          "time_info": "[07时38分 ~ 15时01分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -815,8 +817,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 13时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 15时01分]"
         },
         {
           "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
@@ -825,11 +827,12 @@
           "ranks": [
             13,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 13时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 15时01分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -839,8 +842,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时58分 ~ 13时46分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时01分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -957,8 +960,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 13时46分]"
+          "appearance_count": 6,
+          "time_info": "[11时51分 ~ 15时01分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
