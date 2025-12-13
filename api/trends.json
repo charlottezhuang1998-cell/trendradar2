@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T15:35:51.363399+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2025-12-13T16:47:56.315185+08:00",
+  "total_titles_processed": 1086,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "泽连斯基：特朗普让我们撤离乌东，他要建“自由经济区”",
@@ -37,11 +37,12 @@
             13,
             14,
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时49分 ~ 15时35分]"
+          "appearance_count": 18,
+          "time_info": "[00时49分 ~ 16时47分]"
         },
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -77,17 +78,31 @@
           "time_info": "[07时33分 ~ 07时34分]"
         },
         {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时42分 ~ 16时47分]"
+        },
+        {
           "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
           "url": "https://flash.jin10.com/detail/20251213131305142800",
           "source": "金十数据",
           "ranks": [
             2,
             5,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时43分 ~ 15时35分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 16时47分]"
         },
         {
           "title": "美国白宫官员：美国总统特朗普与泰国和柬埔寨领导人进行了通话。",
@@ -99,19 +114,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时42分"
-        },
-        {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时42分 ~ 15时35分]"
         },
         {
           "title": "美国部分州宣布起诉特朗普H-1B签证申请费用问题",
@@ -379,6 +381,18 @@
           "time_info": "[14时55分 ~ 15时35分]"
         },
         {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 16时47分]"
+        },
+        {
           "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
           "url": "https://flash.jin10.com/detail/20251213021141343800",
           "source": "金十数据",
@@ -457,15 +471,15 @@
           "time_info": "01时42分"
         },
         {
-          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时35分"
+          "time_info": "16时47分"
         },
         {
           "title": "泰国总理：美国总统特朗普在通话中承诺，会达成“更好的”贸易协议。",
@@ -514,11 +528,12 @@
             11,
             6,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时33分 ~ 15时35分]"
+          "appearance_count": 9,
+          "time_info": "[07时33分 ~ 16时47分]"
         },
         {
           "title": "甲骨文发言人声明：对OpenAI的（数据中心）“合同承诺”并没有推迟。 公司对承诺与项目扩建仍然有信心。",
@@ -629,8 +644,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时42分 ~ 15时35分]"
+          "appearance_count": 10,
+          "time_info": "[06时42分 ~ 16时47分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
