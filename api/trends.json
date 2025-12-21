@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T17:36:34.593312+08:00",
-  "total_titles_processed": 1002,
+  "generated_at": "2025-12-21T18:43:33.685558+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,21 @@
           "time_info": "[00时45分 ~ 07时33分]"
         },
         {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时59分 ~ 18时43分]"
+        },
+        {
           "title": "美司法部副部长否认删掉爱泼斯坦案中提及特朗普的内容",
           "url": "https://news.ifeng.com/c/8pFTv3cncwR",
           "source": "凤凰网",
@@ -39,20 +54,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时55分 ~ 14时56分]"
-        },
-        {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时59分 ~ 17时36分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-20）",
@@ -73,11 +74,12 @@
             3,
             4,
             10,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时56分 ~ 17时36分]"
+          "appearance_count": 5,
+          "time_info": "[14时56分 ~ 18时43分]"
         },
         {
           "title": "美外交人员协会称特朗普正解雇多名拜登任命的驻外大使",
@@ -127,7 +129,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
         },
@@ -228,11 +230,12 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时45分 ~ 17时36分]"
+          "appearance_count": 21,
+          "time_info": "[00时45分 ~ 18时43分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -244,11 +247,25 @@
             10,
             11,
             17,
-            19
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时59分 ~ 18时43分]"
+        },
+        {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时59分 ~ 17时36分]"
+          "time_info": "[14时55分 ~ 18时43分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -261,18 +278,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时45分 ~ 07时33分]"
-        },
-        {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 17时36分]"
         }
       ]
     },
