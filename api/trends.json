@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T15:01:52.127471+08:00",
-  "total_titles_processed": 1075,
+  "generated_at": "2025-12-24T15:44:11.750793+08:00",
+  "total_titles_processed": 1157,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             18,
             19,
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 15时01分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 15时44分]"
         },
         {
           "title": "特朗普将建特朗普级新型战舰",
@@ -48,8 +49,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 15时01分]"
+          "appearance_count": 14,
+          "time_info": "[00时56分 ~ 15时44分]"
         },
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -63,6 +64,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时56分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
+          "url": "https://wallstreetcn.com/articles/3761916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时34分 ~ 15时44分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -94,6 +107,18 @@
           "time_info": "[00时56分 ~ 07时34分]"
         },
         {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时51分 ~ 15时44分]"
+        },
+        {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
           "url": "https://www.cls.cn/detail/2238272",
           "source": "财联社热门",
@@ -105,18 +130,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时51分 ~ 15时01分]"
-        },
-        {
-          "title": "特朗普的资本重构：一场万亿美元级别的资金流向大转移",
-          "url": "https://wallstreetcn.com/articles/3761916",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 15时01分]"
         },
         {
           "title": "美国国会山成员寻求将总统特朗普的名字移出肯尼迪中心。（纽约时报）",
@@ -149,18 +162,6 @@
             6,
             17,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 15时01分]"
-        },
-        {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -218,6 +219,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时51分 ~ 15时01分]"
+        },
+        {
+          "title": "克林顿大尺度照被公布 特朗普回应",
+          "url": "https://www.baidu.com/s?wd=%E5%85%8B%E6%9E%97%E9%A1%BF%E5%A4%A7%E5%B0%BA%E5%BA%A6%E7%85%A7%E8%A2%AB%E5%85%AC%E5%B8%83+%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 15时44分]"
         },
         {
           "title": "特朗普：和我持不同意见的人将永远无法成为美联储主席",
@@ -363,17 +375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时31分]"
-        },
-        {
-          "title": "克林顿大尺度照被公布 特朗普回应",
-          "url": "https://www.baidu.com/s?wd=%E5%85%8B%E6%9E%97%E9%A1%BF%E5%A4%A7%E5%B0%BA%E5%BA%A6%E7%85%A7%E8%A2%AB%E5%85%AC%E5%B8%83+%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
         },
         {
           "title": "尽管欧盟曾向特朗普承诺在未来三年内购买价值7500亿美元的美国能源，但在过去四个月里，欧盟从美国购买石油和天然气的支出却减少了7%。",
