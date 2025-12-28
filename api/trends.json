@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:31:19.304503+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2025-12-28T21:40:03.463894+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时54分 ~ 07时33分]"
+        },
+        {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时49分 ~ 21时40分]"
         },
         {
           "title": "泽连斯基周日会晤特朗普讨论“敏感问题”，俄副外长：乌公布的“和平计划”草案与俄美商讨内容“根本不同”",
@@ -80,20 +94,6 @@
           "time_info": "[00时54分 ~ 05时33分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时49分 ~ 19时31分]"
-        },
-        {
           "title": "泽连斯基：我想跟特朗普谈5个问题",
           "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
           "source": "凤凰网",
@@ -102,8 +102,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 19时31分]"
+          "appearance_count": 5,
+          "time_info": "[17时38分 ~ 21时40分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
