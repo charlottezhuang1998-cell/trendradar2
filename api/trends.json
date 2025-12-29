@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T18:52:37.960524+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2025-12-29T19:34:19.043242+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -173,6 +173,18 @@
           "time_info": "[00时51分 ~ 05时34分]"
         },
         {
+          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时02分 ~ 19时34分]"
+        },
+        {
           "title": "特朗普与普京通话：均认为临时停火只会延长俄乌冲突",
           "url": "https://news.ifeng.com/c/8pSsNKYe4yO",
           "source": "凤凰网",
@@ -291,18 +303,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时51分 ~ 05时34分]"
-        },
-        {
-          "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时02分 ~ 18时52分]"
         },
         {
           "title": "特朗普当众施压泽连斯基",
@@ -434,6 +434,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时42分 ~ 05时34分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-29）",
+          "url": "https://flash.jin10.com/detail/20251229182839575800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时34分]"
         },
         {
           "title": "特朗普与泽连斯基未谈妥领土问题",
@@ -591,6 +603,30 @@
           "time_info": "[06时42分 ~ 07时35分]"
         },
         {
+          "title": "俄罗斯总统新闻秘书佩斯科夫：普京和特朗普近期将再次通话，普京与泽连斯基通话目前不在议程之内。（IFX）",
+          "url": "https://wallstreetcn.com/livenews/3028074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时34分]"
+        },
+        {
+          "title": "克里姆林宫称同意特朗普有关乌克兰和平进程更进一步的说法。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3028086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时34分]"
+        },
+        {
           "title": "特朗普称俄乌“接近达成协议”",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BF%84%E4%B9%8C%E2%80%9C%E6%8E%A5%E8%BF%91%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%E2%80%9D",
           "source": "百度热搜",
@@ -613,17 +649,6 @@
           "time_info": "07时35分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-29）",
-          "url": "https://flash.jin10.com/detail/20251229182839575800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：与特朗普的会晤取得了重大成果。乌克兰和美国的团队将于下周会面。",
           "url": "https://flash.jin10.com/detail/20251229065535201800",
           "source": "金十数据",
@@ -644,6 +669,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时01分"
+        },
+        {
+          "title": "德国政府发言人：我们欢迎美国总统特朗普为在乌克兰实现持久而公正的和平所作的努力。",
+          "url": "https://flash.jin10.com/detail/20251229185121695800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "特朗普见泽连斯基前后均与普京通话",
@@ -707,7 +743,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -718,7 +754,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -740,7 +776,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
         },
@@ -778,17 +814,6 @@
           "time_info": "17时55分"
         },
         {
-          "title": "俄罗斯总统新闻秘书佩斯科夫：普京和特朗普近期将再次通话，普京与泽连斯基通话目前不在议程之内。（IFX）",
-          "url": "https://wallstreetcn.com/livenews/3028074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
-        },
-        {
           "title": "美国总统特朗普：俄罗斯想要结束这场战争。",
           "url": "https://flash.jin10.com/detail/20251229060057876800",
           "source": "金十数据",
@@ -798,17 +823,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
-        },
-        {
-          "title": "克里姆林宫称同意特朗普有关乌克兰和平进程更进一步的说法。（塔斯社）",
-          "url": "https://wallstreetcn.com/livenews/3028086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         },
         {
           "title": "美国总统特朗普：乌克兰可能需要通过全民公投或议会批准才能通过相关方案。",
@@ -918,6 +932,18 @@
           "time_info": "07时35分"
         },
         {
+          "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
+          "url": "https://wallstreetcn.com/livenews/3028100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时34分]"
+        },
+        {
           "title": "韩国电商巨头Coupang美股盘前上涨3%，此前公司宣布向韩国用户支付11.8亿美元赔偿金，以弥补数据泄露事件造成的损失。",
           "url": "https://flash.jin10.com/detail/20251229172401231800",
           "source": "金十数据",
@@ -927,17 +953,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
-        },
-        {
-          "title": "美股白银股盘前下跌，科尔矿业跌3.5%，赫克拉矿业跌3.3%，First Majestic白银跌3%，泛美白银跌2.4%，希尔威金属矿业跌2.3%，Endeavour Silver跌2.1%，此前白银从纪录高位回落。",
-          "url": "https://wallstreetcn.com/livenews/3028100",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
         }
       ]
     },
@@ -952,9 +967,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时52分 ~ 19时34分]"
         }
       ]
     },
