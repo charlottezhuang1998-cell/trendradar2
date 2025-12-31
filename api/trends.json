@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T16:57:33.045813+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2025-12-31T17:47:31.150691+08:00",
+  "total_titles_processed": 1310,
   "failed_sources": [],
   "trends": [
     {
@@ -89,11 +89,12 @@
             12,
             5,
             6,
-            10
+            10,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时55分 ~ 15时42分]"
+          "appearance_count": 7,
+          "time_info": "[11时55分 ~ 17时47分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：希望与沙特及其他国家扩大亚伯拉罕协议。 伊朗正在新地点重建导弹能力。 如果哈马斯被解除武装，加沙可能出现新政府。 特朗普和我想要在西岸建设基础设施。 我认为伊朗需要特朗普的警告。",
@@ -252,7 +253,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -298,6 +299,18 @@
           "time_info": "[00时56分 ~ 07时33分]"
         },
         {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时33分 ~ 17时47分]"
+        },
+        {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
           "url": "https://wallstreetcn.com/articles/3762305",
           "source": "华尔街见闻",
@@ -307,18 +320,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时56分 ~ 05时36分]"
-        },
-        {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时33分 ~ 16时57分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
