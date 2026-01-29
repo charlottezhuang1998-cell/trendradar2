@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T15:38:31.525033+08:00",
-  "total_titles_processed": 1467,
+  "generated_at": "2026-01-29T16:34:52.344248+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -58,6 +58,19 @@
           "time_info": "[00时31分 ~ 05时26分]"
         },
         {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时43分 ~ 16时34分]"
+        },
+        {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
           "url": "https://wallstreetcn.com/articles/3764299",
           "source": "华尔街见闻",
@@ -86,18 +99,6 @@
           "time_info": "[00时31分 ~ 09时43分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时43分 ~ 15时38分]"
-        },
-        {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
           "url": "https://www.cls.cn/detail/2273451",
           "source": "财联社热门",
@@ -120,11 +121,12 @@
             11,
             10,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时05分 ~ 15时38分]"
+          "appearance_count": 7,
+          "time_info": "[12时05分 ~ 16时34分]"
         },
         {
           "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
@@ -133,11 +135,24 @@
           "ranks": [
             10,
             11,
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时05分 ~ 16时34分]"
+        },
+        {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[12时05分 ~ 15时38分]"
+          "time_info": "[13时40分 ~ 16时34分]"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -149,18 +164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时40分 ~ 15时38分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -821,11 +824,12 @@
           "ranks": [
             5,
             7,
-            15
+            15,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时05分 ~ 15时38分]"
+          "appearance_count": 7,
+          "time_info": "[12时05分 ~ 16时34分]"
         },
         {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
