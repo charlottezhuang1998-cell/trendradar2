@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-02T18:41:01.541026+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-02-02T19:34:01.909561+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
@@ -19,6 +19,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时24分 ~ 12时22分]"
+        },
+        {
+          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
+          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时46分 ~ 19时34分]"
         },
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -57,18 +69,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时24分 ~ 07时21分]"
-        },
-        {
-          "title": "伊朗外长：正在谈判，特朗普足够明智，会做正确决定",
-          "url": "https://news.ifeng.com/c/8qPq0eP3mpg",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时46分 ~ 18时41分]"
         },
         {
           "title": "特朗普：美委将“分享”石油收益",
@@ -281,7 +281,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -350,6 +350,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-02）",
+          "url": "https://flash.jin10.com/detail/20260202181717877800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         }
       ]
     },
@@ -387,7 +398,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时41分"
         },
@@ -483,8 +494,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时24分 ~ 18时41分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 19时34分]"
         }
       ]
     },
