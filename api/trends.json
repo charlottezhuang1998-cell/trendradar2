@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T14:45:26.220594+08:00",
-  "total_titles_processed": 1244,
+  "generated_at": "2026-02-04T15:42:22.936440+08:00",
+  "total_titles_processed": 1342,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 15时42分]"
         },
         {
           "title": "特朗普：普京遵守了停火承诺，那边真的很冷",
@@ -60,8 +60,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 14时45分]"
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时42分]"
         },
         {
           "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
+          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 15时42分]"
         },
         {
           "title": "城堡投资创始人格里芬：美国总统特朗普提名的美联储主席人选是“非常稳妥的选择”。",
@@ -119,6 +130,18 @@
           "time_info": "05时31分"
         },
         {
+          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
+          "url": "https://www.cls.cn/detail/2280009",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时42分]"
+        },
+        {
           "title": "特朗普称有问题的是比尔盖茨那些人",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -131,17 +154,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时32分 ~ 07时25分]"
-        },
-        {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 14时45分]"
         },
         {
           "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
@@ -181,6 +193,18 @@
           "time_info": "[06时27分 ~ 07时25分]"
         },
         {
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时09分 ~ 15时42分]"
+        },
+        {
           "title": "美国总统特朗普：攫取的数百万桶委内瑞拉石油正运往得州休斯敦。",
           "url": "https://wallstreetcn.com/livenews/3049351",
           "source": "华尔街见闻-快讯",
@@ -203,18 +227,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时44分 ~ 04时32分]"
-        },
-        {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时09分 ~ 14时45分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -264,17 +276,6 @@
           "time_info": "[05时31分 ~ 06时27分]"
         },
         {
-          "title": "特朗普提名沃什“过于低调”，美联储恐迎来重大转变！一文读懂",
-          "url": "https://www.cls.cn/detail/2280009",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 14时45分]"
-        },
-        {
           "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
           "url": "https://wallstreetcn.com/livenews/3049283",
           "source": "华尔街见闻-快讯",
@@ -318,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)首席执行官：希望与美国总统特朗普政府达成一致的肥胖症药物医保覆盖将于今年“年中左右”启动。",
+          "url": "https://flash.jin10.com/detail/20260204152741614800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
@@ -518,6 +530,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "特朗普被问及爱泼斯坦案连怼记者",
+          "url": "https://wallstreetcn.com/livenews/3049655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "特朗普面对爱泼斯坦案追问怒斥CNN记者：你连微笑都没有，难怪你们没人看",
           "url": "https://m.thepaper.cn/newsDetail_forward_32529746",
           "source": "澎湃新闻",
@@ -685,8 +708,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 14时45分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 15时42分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -708,8 +731,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 14时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 15时42分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -734,6 +757,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时25分 ~ 14时45分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时42分]"
         },
         {
           "title": "堡证券称美股步入季节性偏弱的2月，散户买入潮或显现疲态",
@@ -772,18 +808,6 @@
           "time_info": "[06时27分 ~ 07时25分]"
         },
         {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 14时45分]"
-        },
-        {
           "title": "AMD四季度营收102.7亿美元，分析师预期96.5亿美元。 四季度调整后每股收益（EPS）为1.53美元，分析师预期1.32美元。 四季度运营利润28.5亿美元，分析师预期24.7亿美元。 四季度运营利润率28%，分析师预期25.4%。 四季度研发开支23.3亿美元，分析师预期21.6亿美元。 四季度资本开支2.22亿美元，分析师预期2.314亿美元。 预计一季度营收95亿-101亿美元，分析师预期93.9亿美元。 预计一季度调整后毛利润率大约55%，分析师预期54.5%。 AMD美股盘后跌4%。",
           "url": "https://wallstreetcn.com/livenews/3049337",
           "source": "华尔街见闻-快讯",
@@ -808,6 +832,29 @@
           "time_info": "[06时27分 ~ 07时25分]"
         },
         {
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时45分 ~ 15时42分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时45分 ~ 15时42分]"
+        },
+        {
           "title": "网络股指数ETF收跌超3.3%，领跌美股行业ETF，标普能源板块涨约3.3%",
           "url": "https://wallstreetcn.com/livenews/3049332",
           "source": "华尔街见闻-快讯",
@@ -830,18 +877,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时09分 ~ 13时45分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 14时45分]"
         },
         {
           "title": "美股减肥药概念股周二哀鸿遍野，诺和诺德发布了最新业绩报告。 诺和诺德ADR收跌14.64%，硕迪生物跌6.75%，Goodrx跌5.26%，礼来跌3.9%，平价减肥药供应商Hims & Hers跌3.4%，辉瑞制药跌3.34%，阿斯利康跌2.17%，制药ETF跌1.86%，Viking Therapeutics跌1.7%，福泰制药跌1.36%，渤健BIIB跌1.3%。",
@@ -878,17 +913,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 06时27分]"
-        },
-        {
-          "title": "AI颠覆性冲击引发担忧，亚洲软件股跟随美股大跌，现货黄金站上5080美元",
-          "url": "https://wallstreetcn.com/articles/3764901",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
         },
         {
           "title": "美股AI软件先驱指数收跌5.22%，报101.34点，美股盘初快速下跌，北京时间23:00过后持续低位震荡。 成分股HubSpot收跌10.55%，Snowflake跌9.15%，新思科技跌8.46%、铿腾电子跌7.15%，Elastic跌8.34%，Adobe跌7.31%，Datadog跌7.28%，MongoDB跌7.14%，Salesforce跌6.85%，甲骨文跌3.37%，微软跌2.87%，C3.ai跌1.56%跌幅最小，Palantir涨6.85%，是唯一收涨的成分股。",
@@ -952,6 +976,20 @@
       "match_count": 23,
       "titles": [
         {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 15时42分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
           "url": "https://flash.jin10.com/detail/20260204013101107800",
           "source": "金十数据",
@@ -1005,19 +1043,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
-        },
-        {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 14时45分]"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
@@ -1226,8 +1251,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时47分 ~ 14时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时47分 ~ 15时42分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
