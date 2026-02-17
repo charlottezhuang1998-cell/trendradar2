@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T22:13:59.343001+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-02-17T23:49:45.879330+08:00",
+  "total_titles_processed": 1776,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 22时13分]"
+          "appearance_count": 4,
+          "time_info": "[19时37分 ~ 23时49分]"
         },
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -50,9 +50,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
+        },
+        {
+          "title": "特朗普关税引发损失，企业加大货币对冲力度",
+          "url": "https://flash.jin10.com/detail/20260217231948785800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -199,6 +210,17 @@
           "time_info": "[06时23分 ~ 09时48分]"
         },
         {
+          "title": "哈梅内伊：如今我要说，特朗普也做不到",
+          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时37分 ~ 23时49分]"
+        },
+        {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3055802",
           "source": "华尔街见闻-快讯",
@@ -223,17 +245,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时17分 ~ 14时55分]"
-        },
-        {
-          "title": "哈梅内伊：如今我要说，特朗普也做不到",
-          "url": "https://news.ifeng.com/c/8qp3k9bhq7k",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时37分 ~ 22时13分]"
         },
         {
           "title": "特朗普反应低调 日本怕中美搞大动作",
@@ -354,13 +365,24 @@
           "time_info": "19时37分"
         },
         {
+          "title": "白宫新闻秘书莱维特：特朗普总统将前往佐治亚州，聚焦经济与可负担性。",
+          "url": "https://flash.jin10.com/detail/20260217230755682800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
           "title": "美国总统特朗普：已故的杰西·杰克逊牧师是个好人。",
           "url": "https://flash.jin10.com/detail/20260217213755064800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -379,7 +401,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -392,8 +414,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时48分 ~ 22时13分]"
+          "appearance_count": 14,
+          "time_info": "[09时48分 ~ 23时49分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
@@ -421,24 +443,25 @@
           "time_info": "[17时43分 ~ 18时41分]"
         },
         {
+          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291237",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时13分 ~ 23时49分]"
+        },
+        {
           "title": "周二美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3056004",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时13分"
-        },
-        {
-          "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2291237",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -471,9 +494,42 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
+        },
+        {
+          "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
+          "url": "https://wallstreetcn.com/livenews/3056025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
+        },
+        {
+          "title": "美股盘初：纳指跌0.7%，黄金股、科技股普跌",
+          "url": "https://wallstreetcn.com/livenews/3056021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         },
         {
           "title": "美股期货跌幅扩大，纳斯达克100指数期货跌超1%，标普500指数期货跌0.6%，道指期货跌0.4%。",
@@ -482,7 +538,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -515,7 +571,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时13分"
         },
@@ -684,7 +740,7 @@
     },
     {
       "keyword_group": "Qwen",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "阿里除夕夜发布 Qwen3.5 模型，哪些技术亮点值得关注？对大模型发展有何影响？",
@@ -697,6 +753,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时38分 ~ 07时26分]"
+        },
+        {
+          "title": "摩尔线程快速完成对Qwen3.5模型全面适配",
+          "url": "https://wallstreetcn.com/livenews/3056023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时49分"
         }
       ]
     },
