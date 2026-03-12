@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T12:11:34.520034+08:00",
-  "total_titles_processed": 1032,
+  "generated_at": "2026-03-12T13:49:13.731512+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,19 @@
           "time_info": "[00时47分 ~ 07时22分]"
         },
         {
+          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
+          "url": "https://wallstreetcn.com/articles/3767268",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时23分 ~ 13时49分]"
+        },
+        {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
           "url": "https://wallstreetcn.com/articles/3767189",
           "source": "华尔街见闻",
@@ -58,19 +71,6 @@
           "time_info": "[00时47分 ~ 07时22分]"
         },
         {
-          "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
-          "url": "https://wallstreetcn.com/articles/3767268",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时23分 ~ 12时11分]"
-        },
-        {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
           "url": "https://wallstreetcn.com/articles/3767174",
           "source": "华尔街见闻",
@@ -90,8 +90,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时11分]"
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 13时49分]"
+        },
+        {
+          "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
+          "url": "https://news.ifeng.com/c/8rQZWpPErKf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 13时49分]"
+        },
+        {
+          "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
+          "url": "https://www.cls.cn/detail/2310196",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 13时49分]"
         },
         {
           "title": "美以伊战争｜特朗普：将动用战略石油储备抑制油价",
@@ -117,17 +141,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时49分 ~ 07时22分]"
-        },
-        {
-          "title": "伊媒：特朗普向多国盟友求援遭拒，仅1国考虑帮忙",
-          "url": "https://news.ifeng.com/c/8rQZWpPErKf",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时11分]"
         },
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示可能打击更多目标，伊方警告美或陷入长期耗损战",
@@ -184,19 +197,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "特朗普称对伊战争“即将结束” 但美以军方仍筹划至少两周持续打击",
-          "url": "https://www.cls.cn/detail/2310196",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 12时11分]"
         },
         {
           "title": "特朗普：美国在伊朗没有采取可以采取的某些行动。",
@@ -354,6 +354,30 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "特朗普称对伊朗军事行动「即将结束」，如何解读？在另一方誓言将「连环打击」时，战争真能结束吗？",
+          "url": "https://www.zhihu.com/question/2015192608771633980",
+          "source": "知乎",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时44分 ~ 13时49分]"
+        },
+        {
+          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
+          "url": "https://wallstreetcn.com/articles/3767287",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 13时49分]"
+        },
+        {
           "title": "特朗普称对伊朗军事行动“即将结束”，伊方称转为“连环打击”、警告美或陷入长期耗损战",
           "url": "https://wallstreetcn.com/articles/3767268",
           "source": "华尔街见闻",
@@ -377,6 +401,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时30分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普“对等关税”被推翻后 美国2月关税收入降逾10亿美元",
+          "url": "https://www.cls.cn/detail/2310220",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时11分 ~ 13时49分]"
         },
         {
           "title": "特朗普称美国已击沉28艘伊朗布雷船",
@@ -451,18 +487,6 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
-          "title": "特朗普称对伊朗军事行动「即将结束」，如何解读？在另一方誓言将「连环打击」时，战争真能结束吗？",
-          "url": "https://www.zhihu.com/question/2015192608771633980",
-          "source": "知乎",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时11分]"
-        },
-        {
           "title": "当被问及伊朗是否在霍尔木兹海峡布雷时，特朗普回答说：“我们不这么认为。”",
           "url": "https://flash.jin10.com/detail/20260312002356436800",
           "source": "金十数据",
@@ -472,17 +496,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
-          "url": "https://wallstreetcn.com/articles/3767287",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
         },
         {
           "title": "特朗普：我认为你可以看到霍尔木兹海的安全状况很好。",
@@ -527,17 +540,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "特朗普“对等关税”被推翻后 美国2月关税收入降逾10亿美元",
-          "url": "https://www.cls.cn/detail/2310220",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时11分"
         },
         {
           "title": "特朗普谈西班牙：这个国家不配合美国。",
@@ -900,6 +902,30 @@
           "time_info": "[00时47分 ~ 06时23分]"
         },
         {
+          "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
+          "url": "https://www.cls.cn/detail/2310241",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 13时49分]"
+        },
+        {
+          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
+          "url": "https://wallstreetcn.com/articles/3767236",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 13时49分]"
+        },
+        {
           "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
           "url": "https://www.cls.cn/detail/2310036",
           "source": "财联社热门",
@@ -912,30 +938,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时47分 ~ 12时11分]"
-        },
-        {
-          "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
-          "url": "https://www.cls.cn/detail/2310241",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 12时11分]"
-        },
-        {
-          "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
-          "url": "https://wallstreetcn.com/articles/3767236",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 12时11分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
