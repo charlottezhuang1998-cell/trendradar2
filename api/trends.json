@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T09:46:28.176604+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-03-13T12:09:49.859544+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -49,11 +49,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            7
+            7,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时56分 ~ 07时41分]"
+          "appearance_count": 11,
+          "time_info": "[00时56分 ~ 12时09分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -78,16 +79,28 @@
           "time_info": "04时31分"
         },
         {
+          "title": "特朗普称穆杰塔巴可能受伤但仍活着",
+          "url": "https://news.ifeng.com/c/8rSDrMIby5D",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
           "title": "中方回应特朗普计划访华",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A1%E5%88%92%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
           "ranks": [
             12,
-            1
+            1,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 09时46分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 12时09分]"
         },
         {
           "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
@@ -100,6 +113,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时40分 ~ 04时31分]"
+        },
+        {
+          "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 12时09分]"
         },
         {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
@@ -126,6 +152,18 @@
           "time_info": "[07时41分 ~ 09时46分]"
         },
         {
+          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
+          "url": "https://wallstreetcn.com/articles/3767380",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 12时09分]"
+        },
+        {
           "title": "贝森特说不会因为战争成本跟特朗普对峙",
           "url": "https://flash.jin10.com/detail/20260313045000353800",
           "source": "金十数据",
@@ -138,16 +176,16 @@
           "time_info": "[05时30分 ~ 06时22分]"
         },
         {
-          "title": "释新闻｜特朗普为何改口批准释放石油储备？对平抑油价有多大用处？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32752905",
-          "source": "澎湃新闻",
+          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
+          "url": "https://www.cls.cn/detail/2311436",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            12
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时41分 ~ 09时46分]"
+          "time_info": "[09时46分 ~ 12时09分]"
         },
         {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
@@ -184,35 +222,13 @@
           "time_info": "00时56分"
         },
         {
-          "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
-          "url": "https://wallstreetcn.com/articles/3767380",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
-          "url": "https://www.cls.cn/detail/2311436",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
           "title": "特朗普：穆杰塔巴可能受伤但活着",
           "url": "https://www.toutiao.com/trending/7616538009198054950/",
           "source": "今日头条",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -234,7 +250,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -267,7 +283,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         },
@@ -344,7 +360,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
         }
@@ -352,7 +368,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -379,6 +395,19 @@
           "time_info": "[00时56分 ~ 06时22分]"
         },
         {
+          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
+          "url": "https://www.cls.cn/detail/2311450",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时22分 ~ 12时09分]"
+        },
+        {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
           "url": "https://wallstreetcn.com/articles/3767295",
           "source": "华尔街见闻",
@@ -390,17 +419,15 @@
           "time_info": "[07时41分 ~ 09时46分]"
         },
         {
-          "title": "美股收盘：伊朗战事升级引发抛售潮 三大指数均跌逾1.5%",
-          "url": "https://www.cls.cn/detail/2311450",
-          "source": "财联社热门",
+          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3767295",
+          "source": "华尔街见闻",
           "ranks": [
-            7,
-            1,
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时22分 ~ 09时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
@@ -597,11 +624,12 @@
           "url": "https://www.zhihu.com/question/1963698332040929828",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 12时09分]"
         },
         {
           "title": "市场消息：Anthropic将于今年晚些时候推出首个Claude技术认证。",
