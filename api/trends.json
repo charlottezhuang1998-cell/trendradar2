@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T16:35:56.050346+08:00",
-  "total_titles_processed": 1405,
+  "generated_at": "2026-03-13T17:43:56.367626+08:00",
+  "total_titles_processed": 1512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -51,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时09分 ~ 17时43分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -79,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 16时35分]"
+          "appearance_count": 9,
+          "time_info": "[09时46分 ~ 17时43分]"
         },
         {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
@@ -103,11 +103,12 @@
           "ranks": [
             9,
             8,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时45分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 17时43分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -121,6 +122,17 @@
           "time_info": "03时40分"
         },
         {
+          "title": "美媒：特朗普在G7通话中称伊朗即将投降，只是伊朗没人能宣布",
+          "url": "https://flash.jin10.com/detail/20260313172014745800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
           "title": "中方回应特朗普将对华新贸易调查",
           "url": "https://www.toutiao.com/trending/7615192157801152518/",
           "source": "今日头条",
@@ -130,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "据AXIOS网站：美国总统特朗普在G7通话中声称，伊朗“即将投降”。",
+          "url": "https://flash.jin10.com/detail/20260313171234466800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时43分"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -466,8 +489,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时09分 ~ 16时35分]"
+          "appearance_count": 8,
+          "time_info": "[12时09分 ~ 17时43分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
@@ -487,7 +510,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -616,7 +639,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
