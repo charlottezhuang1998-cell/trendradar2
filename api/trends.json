@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T18:33:03.357833+08:00",
-  "total_titles_processed": 1618,
+  "generated_at": "2026-03-13T19:28:58.389751+08:00",
+  "total_titles_processed": 1707,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 47,
       "titles": [
         {
           "title": "中方回应特朗普计划访华",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 18时33分]"
+          "appearance_count": 11,
+          "time_info": "[12时09分 ~ 19时28分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -55,6 +55,21 @@
           "time_info": "[00时56分 ~ 05时30分]"
         },
         {
+          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
+          "url": "https://www.cls.cn/detail/2311714",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时45分 ~ 19时28分]"
+        },
+        {
           "title": "市场不再预计美联储今年一定降息！特朗普敦促鲍威尔立刻降息：别等到下次开会！",
           "url": "https://wallstreetcn.com/articles/3767380",
           "source": "华尔街见闻",
@@ -64,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时46分 ~ 18时33分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 19时28分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -81,20 +96,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时56分 ~ 14时47分]"
-        },
-        {
-          "title": "不再鼓吹低油价？特朗普态度“180度大转弯”：高油价让美国大赚！",
-          "url": "https://www.cls.cn/detail/2311714",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时45分 ~ 18时33分]"
         },
         {
           "title": "特朗普政府准备豁免《琼斯法案》 以应对燃料价格飙升",
@@ -118,8 +119,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 19时28分]"
         },
         {
           "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
@@ -150,7 +151,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -164,6 +165,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普称必要时将护航霍尔木兹海峡 威胁加大对伊朗打击",
+          "url": "https://flash.jin10.com/detail/20260313191927288800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "据AXIOS网站：美国总统特朗普在G7通话中声称，伊朗“即将投降”。",
@@ -215,6 +227,18 @@
           "time_info": "[07时41分 ~ 12时09分]"
         },
         {
+          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时32分 ~ 19时28分]"
+        },
+        {
           "title": "美国财政部长贝森特：（被问及战争成本是否会迫使他告诉特朗普战争已不再负担得起）“绝对不会”。",
           "url": "https://flash.jin10.com/detail/20260313035535843800",
           "source": "金十数据",
@@ -251,6 +275,18 @@
           "time_info": "[05时30分 ~ 06时22分]"
         },
         {
+          "title": "特朗普鼓动油轮“拿出点胆量”通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3069649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时28分]"
+        },
+        {
           "title": "周四（3月12日），降息赢家指数跌2.72%，报87.51点，跳空低开之后持续走低。 “特朗普关税输家”指数跌3.14%，“特朗普金融指数”跌3.08%。 散户抱团概念股指数/迷因股（meme stock）指数跌2.73%。",
           "url": "https://wallstreetcn.com/livenews/3069156",
           "source": "华尔街见闻-快讯",
@@ -274,17 +310,6 @@
           "time_info": "[09时46分 ~ 13时45分]"
         },
         {
-          "title": "特朗普访华后将签署美国对台一揽子军售方案？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32761207",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时32分 ~ 18时33分]"
-        },
-        {
           "title": "伊朗称特朗普几条推文结束不了战争",
           "url": "https://flash.jin10.com/detail/20260313004520116800",
           "source": "金十数据",
@@ -294,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时56分"
+        },
+        {
+          "title": "特朗普没料到，能拦截油轮的，除了伊朗还有一个资本财团",
+          "url": "https://news.ifeng.com/c/8rSOJi1DH0g",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "48%的美国人将高油价归咎于特朗普，这一比例高于其他任何因素。",
@@ -318,15 +354,15 @@
           "time_info": "14时47分"
         },
         {
-          "title": "特朗普鼓动油轮“拿出点胆量”通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3069649",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：（谈伊朗局势）未来一周将对他们予以迎头痛击。",
+          "url": "https://flash.jin10.com/detail/20260313190732526800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时33分"
+          "time_info": "19时28分"
         },
         {
           "title": "特朗普：穆杰塔巴可能受伤但活着",
@@ -338,6 +374,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "美国总统特朗普：（关于霍尔木兹海峡）让我们拭目以待。",
+          "url": "https://flash.jin10.com/detail/20260313190707304800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "美国总统特朗普：希望一切进展顺利。",
+          "url": "https://flash.jin10.com/detail/20260313190639309800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "哥伦比亚总统府：哥伦比亚总统与美国总统特朗普于周四通了电话。",
@@ -371,6 +429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
+        },
+        {
+          "title": "美国总统特朗普：（谈美国在霍尔木兹海峡的护航行动）如果我们需要，就会这么做。",
+          "url": "https://flash.jin10.com/detail/20260313190528886800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "伊朗最高安全官员对特朗普表示：结束战争可不是发几条推特就能做到的。",
@@ -494,11 +563,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时09分 ~ 18时33分]"
+          "appearance_count": 11,
+          "time_info": "[12时09分 ~ 19时28分]"
         },
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
