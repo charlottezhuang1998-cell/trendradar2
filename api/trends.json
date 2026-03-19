@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T12:21:37.468940+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2026-03-19T13:56:30.297693+08:00",
+  "total_titles_processed": 1142,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时10分 ~ 12时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时10分 ~ 13时56分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -87,8 +87,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时10分 ~ 12时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时10分 ~ 13时56分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -101,6 +101,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时10分 ~ 06时29分]"
+        },
+        {
+          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
+          "url": "https://www.cls.cn/detail/2317562",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时56分]"
+        },
+        {
+          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
+          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时21分 ~ 13时56分]"
         },
         {
           "title": "法国总统马克龙：刚刚与卡塔尔埃米尔和特朗普通话，讨论了当天针对伊朗和卡塔尔天然气生产设施的袭击事件。各方的共同利益在于，应立即实施暂停针对民用基础设施（尤其是能源和供水基础设施）的打击行动。",
@@ -120,7 +142,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -134,28 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
-        },
-        {
-          "title": "伊朗接连袭击沙特卡塔尔油气设施 特朗普据悉反对继续袭击伊能源设施",
-          "url": "https://www.cls.cn/detail/2317562",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "美参议院未通过限制特朗普对伊动武法案，民主党扬言继续施压",
-          "url": "https://news.ifeng.com/c/8rcHthVvS8A",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时21分"
         },
         {
           "title": "消息人士：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格。",
@@ -198,11 +198,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时21分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时56分]"
         },
         {
           "title": "特朗普豁免执行《琼斯法》遏制高油价",
@@ -259,7 +260,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
         },
@@ -289,8 +290,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时33分 ~ 12时21分]"
+          "appearance_count": 5,
+          "time_info": "[07时33分 ~ 13时56分]"
         },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
@@ -526,8 +527,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时10分 ~ 12时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时10分 ~ 13时56分]"
         }
       ]
     },
