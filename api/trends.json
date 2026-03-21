@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T14:38:25.299410+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-03-21T15:32:04.863504+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 14时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 15时32分]"
         },
         {
           "title": "响应特朗普呼声，以色列总理称将暂停空袭伊朗能源设施，卡塔尔称伊袭破坏17%LNG产能",
@@ -43,8 +43,36 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时24分 ~ 14时38分]"
+          "appearance_count": 10,
+          "time_info": "[06时24分 ~ 15时32分]"
+        },
+        {
+          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
+          "url": "https://www.cls.cn/detail/2320213",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 15时32分]"
+        },
+        {
+          "title": "美日领导人会晤，特朗普只想聊伊朗",
+          "url": "https://news.ifeng.com/c/8rfOa2ro7FJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 15时32分]"
         },
         {
           "title": "向特朗普提问的日本记者，遭疯狂网暴",
@@ -98,35 +126,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 14时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 15时32分]"
         },
         {
-          "title": "特朗普称正考虑逐步降级对伊朗的军事行动",
-          "url": "https://www.cls.cn/detail/2320213",
+          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
+          "url": "https://www.cls.cn/detail/2320222",
           "source": "财联社热门",
           "ranks": [
-            11,
-            6,
-            5,
-            4,
-            3
+            7,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时25分 ~ 14时38分]"
-        },
-        {
-          "title": "美日领导人会晤，特朗普只想聊伊朗",
-          "url": "https://news.ifeng.com/c/8rfOa2ro7FJ",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 14时38分]"
+          "time_info": "[09时42分 ~ 15时32分]"
         },
         {
           "title": "美以伊战争丨特朗普：当美想结束冲突时，以也会同步",
@@ -151,6 +165,17 @@
           "time_info": "[07时25分 ~ 07时26分]"
         },
         {
+          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
+          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时32分]"
+        },
+        {
           "title": "特朗普：目前不想停火 霍尔木兹海峡会自动开放",
           "url": "https://flash.jin10.com/detail/20260321041434327800",
           "source": "金十数据",
@@ -163,6 +188,19 @@
           "time_info": "[05时27分 ~ 09时42分]"
         },
         {
+          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时32分]"
+        },
+        {
           "title": "【美国防官员已为向伊朗部署地面部队制定详尽方案】3月20日获悉，美国国防部官员已为向伊朗部署美国地面部队制定了详尽的准备方案。据悉，特朗普一直在权衡是否要在该地区部署地面部队。目前尚不清楚他会在何种情况下授权动用地面部队。（央视）",
           "url": "https://wallstreetcn.com/livenews/3074307",
           "source": "华尔街见闻-快讯",
@@ -172,19 +210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
-        },
-        {
-          "title": "特朗普称正考虑降级对伊行动 贵金属价格延续跌势 | 环球市场",
-          "url": "https://www.cls.cn/detail/2320222",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 14时38分]"
         },
         {
           "title": "特朗普：正考虑逐步降级对伊朗的军事行动",
@@ -200,17 +225,6 @@
           "time_info": "[06时24分 ~ 09时42分]"
         },
         {
-          "title": "“谁是主子，谁是奴才？”特朗普给高市上课",
-          "url": "https://news.ifeng.com/c/8rfRldwHGa7",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 14时38分]"
-        },
-        {
           "title": "布伦特原油期货在电子交易盘回吐涨幅，美国总统特朗普宣称，美方考虑“逐步缩减”对伊朗的军事行动。",
           "url": "https://wallstreetcn.com/livenews/3074360",
           "source": "华尔街见闻-快讯",
@@ -222,19 +236,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 09时42分]"
-        },
-        {
-          "title": "对话｜海湾战事三周（上）：特朗普矛盾表态是策略，伊朗非对称作战奏效",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32802192",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 14时38分]"
         },
         {
           "title": "特朗普：我的支持率达到了前所未有的100%",
@@ -309,6 +310,19 @@
           "time_info": "[04时28分 ~ 07时26分]"
         },
         {
+          "title": "据Politico：联合国秘书长表示，他正与特朗普在加沙的和平委员会合作。",
+          "url": "https://flash.jin10.com/detail/20260321115027994800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 15时32分]"
+        },
+        {
           "title": "特朗普肖像将登美建国250周年纪念币",
           "url": "https://www.toutiao.com/trending/7619105580468158510/",
           "source": "今日头条",
@@ -367,18 +381,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 09时42分]"
-        },
-        {
-          "title": "据Politico：联合国秘书长表示，他正与特朗普在加沙的和平委员会合作。",
-          "url": "https://flash.jin10.com/detail/20260321115027994800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 14时38分]"
         },
         {
           "title": "美国总统特朗普：北约应当在霍尔木兹海峡通航问题上帮助美国。",
@@ -660,8 +662,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时38分 ~ 14时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时38分 ~ 15时32分]"
+        },
+        {
+          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
+          "url": "https://www.cls.cn/detail/2320209",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 15时32分]"
+        },
+        {
+          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
+          "url": "https://wallstreetcn.com/articles/3767994",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 15时32分]"
         },
         {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
@@ -680,20 +707,6 @@
           "time_info": "[00时38分 ~ 06时24分]"
         },
         {
-          "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
-          "url": "https://www.cls.cn/detail/2320209",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 14时38分]"
-        },
-        {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
           "url": "https://www.cls.cn/detail/2319906",
           "source": "财联社热门",
@@ -707,15 +720,18 @@
           "time_info": "[00时38分 ~ 12时03分]"
         },
         {
-          "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
-          "url": "https://wallstreetcn.com/articles/3767994",
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            6,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时42分 ~ 14时38分]"
+          "appearance_count": 6,
+          "time_info": "[12时02分 ~ 15时32分]"
         },
         {
           "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -739,19 +755,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时27分 ~ 09时42分]"
-        },
-        {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 14时38分]"
         },
         {
           "title": "美股延续跌势，纳指跌超2%，标普500指数跌1.46%，道指跌超1%。",
