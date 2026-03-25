@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T13:59:16.389781+08:00",
-  "total_titles_processed": 1205,
+  "generated_at": "2026-03-25T15:06:33.446327+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 13时59分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 15时06分]"
         },
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 13时59分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 15时06分]"
         },
         {
           "title": "视频丨特朗普称同伊朗对话“完美”：若一切顺利，将结束冲突",
@@ -107,8 +107,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 15时06分]"
         },
         {
           "title": "美伊谈判是真是假，至少华尔街已从特朗普引发的五分钟狂飙获得明确信号",
@@ -122,17 +122,6 @@
           "time_info": "[00时03分 ~ 06时27分]"
         },
         {
-          "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
-          "url": "https://wallstreetcn.com/articles/3768191",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 01时53分]"
-        },
-        {
           "title": "美CIA前局长：比起特朗普，更相信伊朗",
           "url": "https://news.ifeng.com/c/8rm8Wgr5b4i",
           "source": "凤凰网",
@@ -140,8 +129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时58分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[13时58分 ~ 15时06分]"
         },
         {
           "title": "中东战事推高生活成本 民调显示特朗普支持率创重返白宫后新低",
@@ -154,8 +143,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 13时59分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 15时06分]"
+        },
+        {
+          "title": "特朗普：同伊朗对话“完美”、已形成协议要点，正就达成更广泛协议与伊磋商",
+          "url": "https://wallstreetcn.com/articles/3768191",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时03分 ~ 01时53分]"
         },
         {
           "title": "特朗普政府的官员们准备对夏季汽油销售实施E15豁免。",
@@ -237,8 +237,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时06分]"
         },
         {
           "title": "特朗普：伊朗方面想达成协议 且已同意永不拥核",
@@ -505,7 +505,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -593,6 +593,19 @@
       "match_count": 21,
       "titles": [
         {
+          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
+          "url": "https://www.zhihu.com/question/2020036375211157322",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时18分 ~ 15时06分]"
+        },
+        {
           "title": "消息人士称，OpenAI将终止与迪士尼的合作。",
           "url": "https://flash.jin10.com/detail/20260325043011532800",
           "source": "金十数据",
@@ -626,16 +639,31 @@
           "time_info": "00时03分"
         },
         {
-          "title": "OpenAI 将停止 Sora 视频生成服务，以精简产品线，这透露出哪些行业信号？",
-          "url": "https://www.zhihu.com/question/2020036375211157322",
-          "source": "知乎",
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            4
+            6,
+            18,
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时18分 ~ 13时59分]"
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 15时06分]"
+        },
+        {
+          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
+          "url": "https://www.cls.cn/detail/2323711",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 15时06分]"
         },
         {
           "title": "OpenAI旗下文生视频Sora确认，该部门将不会再得到公司的支持。（彭博）",
@@ -649,32 +677,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时37分 ~ 06时27分]"
-        },
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 13时59分]"
-        },
-        {
-          "title": "什么情况？OpenAI 重大逆转：旗下Sora AI视频应用将终止服务",
-          "url": "https://www.cls.cn/detail/2323711",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 13时59分]"
         },
         {
           "title": "报道：OpenAI完成了新款AI模型的初步开发，Altman将专注供应链和打造数据中心",
@@ -870,8 +872,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 13时59分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 15时06分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -882,8 +884,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时28分 ~ 13时59分]"
+          "appearance_count": 7,
+          "time_info": "[07时28分 ~ 15时06分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -909,11 +911,12 @@
             13,
             14,
             17,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时03分 ~ 13时59分]"
+          "appearance_count": 16,
+          "time_info": "[00时03分 ~ 15时06分]"
         },
         {
           "title": "网络股指数ETF收跌超2.3%，领跌美股行业ETF，标普能源板块涨2%",
@@ -1214,8 +1217,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时53分 ~ 13时59分]"
+          "appearance_count": 15,
+          "time_info": "[01时53分 ~ 15时06分]"
         },
         {
           "title": "Claude加入“龙虾大战” NASA押注月球基地、核动力飞船 | 环球市场",
