@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T20:57:54.218846+08:00",
-  "total_titles_processed": 1828,
+  "generated_at": "2026-03-27T22:12:06.062906+08:00",
+  "total_titles_processed": 1943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "担心特朗普叫停，内塔尼亚胡下令猛炸伊朗",
@@ -45,8 +45,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[04时32分 ~ 20时57分]"
+          "appearance_count": 21,
+          "time_info": "[04时32分 ~ 22时12分]"
         },
         {
           "title": "伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判",
@@ -115,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时58分 ~ 20时57分]"
+          "appearance_count": 15,
+          "time_info": "[09时58分 ~ 22时12分]"
         },
         {
           "title": "伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事",
@@ -296,6 +296,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "“末日博士”预测：美伊冲突升级概率超50%，特朗普不会退让！",
+          "url": "https://flash.jin10.com/detail/20260327215652996800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美国总统特朗普：还不知道周五的“最后期限”会不会改变。",
           "url": "https://wallstreetcn.com/livenews/3077593",
           "source": "华尔街见闻-快讯",
@@ -316,6 +327,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "美钞将印上特朗普签名，打破165年来的传统",
+          "url": "https://www.cls.cn/detail/2326823",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时57分 ~ 22时12分]"
         },
         {
           "title": "打破165年传统 美钞将印特朗普签名",
@@ -443,19 +468,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时28分]"
-        },
-        {
-          "title": "美钞将印上特朗普签名，打破165年来的传统",
-          "url": "https://www.cls.cn/detail/2326823",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 20时57分]"
         },
         {
           "title": "特朗普揭晓所谓伊朗“大礼”",
@@ -730,7 +742,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -892,7 +904,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -904,8 +916,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时58分 ~ 20时57分]"
+          "appearance_count": 15,
+          "time_info": "[09时58分 ~ 22时12分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -919,8 +931,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时58分 ~ 20时57分]"
+          "appearance_count": 15,
+          "time_info": "[09时58分 ~ 22时12分]"
         },
         {
           "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
@@ -1003,6 +1015,17 @@
           "time_info": "[19时39分 ~ 20时57分]"
         },
         {
+          "title": "美伊局势走向不明，美股指下跌，半导体股、网络安全股普跌，布油涨超2%，美30年期国债收益率创去年9月来新高",
+          "url": "https://wallstreetcn.com/articles/3768537",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
+        },
+        {
           "title": "金十图示：2026年03月26日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260327040601213800",
           "source": "金十数据",
@@ -1074,6 +1097,17 @@
           "time_info": "[19时39分 ~ 20时57分]"
         },
         {
+          "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2327400",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时11分 ~ 22时12分]"
+        },
+        {
           "title": "美股标普纳指创开战后最大单日跌幅",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%A0%87%E6%99%AE%E7%BA%B3%E6%8C%87%E5%88%9B%E5%BC%80%E6%88%98%E5%90%8E%E6%9C%80%E5%A4%A7%E5%8D%95%E6%97%A5%E8%B7%8C%E5%B9%85",
           "source": "百度热搜",
@@ -1107,6 +1141,28 @@
           "time_info": "02时36分"
         },
         {
+          "title": "金十图示：2026年03月27日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260327214355757800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "美股延续跌势，纳指跌幅迅速扩大至1%。",
+          "url": "https://flash.jin10.com/detail/20260327213550083800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
           "title": "美股三大股指期货持续走低，纳指日内跌幅扩大至0.26%，标普500指数期货跌0.23%，道指期货跌0.24%； 国际原油走高，布伦特原油突破104美元/桶，日内涨超2%。 欧洲斯托克600指数跌幅扩大至1.1%，触及盘中新低。",
           "url": "https://wallstreetcn.com/livenews/3078098",
           "source": "华尔街见闻-快讯",
@@ -1116,6 +1172,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时57分"
+        },
+        {
+          "title": "美股三大指数集体低开",
+          "url": "https://flash.jin10.com/detail/20260327213247256800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数下跌，网络股指数跌近2%，金融业ETF、可选消费ETF、银行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3078299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
+        },
+        {
+          "title": "北美科技软件股指数ETF下跌2.8%，在美股盘初跌至77.50美元，逼近2月24日盘中最低位76.25美元和2024年8月份底部75.96美元。",
+          "url": "https://wallstreetcn.com/livenews/3078297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         }
       ]
     },
@@ -1145,11 +1234,12 @@
             8,
             16,
             15,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时36分 ~ 20时57分]"
+          "appearance_count": 13,
+          "time_info": "[12时36分 ~ 22时12分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -1161,11 +1251,12 @@
             20,
             17,
             11,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时58分 ~ 20时57分]"
+          "appearance_count": 15,
+          "time_info": "[09时58分 ~ 22时12分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -1175,11 +1266,12 @@
             10,
             9,
             12,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时59分 ~ 20时57分]"
+          "appearance_count": 9,
+          "time_info": "[15时59分 ~ 22时12分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
@@ -1414,7 +1506,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
