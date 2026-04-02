@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T22:52:26.787896+08:00",
-  "total_titles_processed": 1908,
+  "generated_at": "2026-04-02T23:58:16.374809+08:00",
+  "total_titles_processed": 1970,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 22时52分]"
+          "appearance_count": 13,
+          "time_info": "[12时28分 ~ 23时58分]"
         },
         {
           "title": "完整视频丨特朗普发表全国讲话：对伊朗战事取得决定性胜利",
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时56分 ~ 22时52分]"
+          "appearance_count": 14,
+          "time_info": "[09时56分 ~ 23时58分]"
         },
         {
           "title": "特朗普关键“全美讲话”前夕，美伊就“谈判现状”激烈交锋",
@@ -80,6 +80,21 @@
           "time_info": "[00时10分 ~ 07时33分]"
         },
         {
+          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
+          "url": "https://www.cls.cn/detail/2333305",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时58分 ~ 23时58分]"
+        },
+        {
           "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
           "url": "https://news.ifeng.com/c/8rxB6hK0gY7",
           "source": "凤凰网",
@@ -101,6 +116,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时10分 ~ 07时33分]"
+        },
+        {
+          "title": "外交部谈特朗普涉伊朗言论",
+          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时58分 ~ 23时58分]"
         },
         {
           "title": "特朗普称将很快撤出伊朗战事",
@@ -144,20 +170,6 @@
           "time_info": "[12时28分 ~ 19时43分]"
         },
         {
-          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
-          "url": "https://www.cls.cn/detail/2333305",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时58分 ~ 22时52分]"
-        },
-        {
           "title": "特朗普讲话“没有明确降温信号”，市场“很失望”",
           "url": "https://wallstreetcn.com/articles/3769054",
           "source": "华尔街见闻",
@@ -168,19 +180,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 22时52分]"
-        },
-        {
-          "title": "外交部谈特朗普涉伊朗言论",
-          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时58分 ~ 22时52分]"
+          "appearance_count": 13,
+          "time_info": "[12时28分 ~ 23时58分]"
         },
         {
           "title": "外媒：特朗普正“认真考虑”让美国退出北约",
@@ -204,11 +205,12 @@
             7,
             12,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时28分 ~ 22时52分]"
+          "appearance_count": 13,
+          "time_info": "[12时28分 ~ 23时58分]"
         },
         {
           "title": "美国汽油价格突破每加仑4美元，特朗普：美军离开伊朗油价就能跌",
@@ -223,6 +225,22 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时47分 ~ 14时11分]"
+        },
+        {
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
+          "ranks": [
+            27,
+            9,
+            16,
+            29,
+            24,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时04分 ~ 23时58分]"
         },
         {
           "title": "特朗普最新表态：有无协议都会撤出伊朗，只要伊方没有核武器",
@@ -322,21 +340,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时28分 ~ 14时11分]"
-        },
-        {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
-          "ranks": [
-            27,
-            9,
-            16,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时04分 ~ 22时52分]"
         },
         {
           "title": "特朗普自行宣称对伊朗取得「快速、决定性、压倒性胜利」，接下来几周将对伊进行更强打击，如何看待这一表态？",
@@ -441,17 +444,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "特朗普预算案为中期选举铺路：强化国防开支，削减其他项目",
-          "url": "https://wallstreetcn.com/livenews/3081684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
         },
         {
           "title": "北约担忧美国总统特朗普会削弱这个联盟，此前美国威胁要退出北约。",
@@ -605,6 +597,18 @@
           "time_info": "[05时39分 ~ 06时34分]"
         },
         {
+          "title": "特朗普预算案为中期选举铺路：强化国防开支，削减其他项目",
+          "url": "https://wallstreetcn.com/livenews/3081684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时58分]"
+        },
+        {
           "title": "美国情报机构表示：伊朗认为，美国总统特朗普在对话方面缺乏诚意。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3081122",
           "source": "华尔街见闻-快讯",
@@ -751,6 +755,18 @@
           "time_info": "[05时39分 ~ 06时34分]"
         },
         {
+          "title": "美国总统特朗普宣称，很快将签署命令，从而对国土安全部（DHS）所有雇员支付薪资。",
+          "url": "https://wallstreetcn.com/livenews/3081677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时58分]"
+        },
+        {
           "title": "标普500指数涨超1.2%，道指涨429点、涨幅0.9%。 据以色列广播管理局援引以色列消息人士的话称，以色列越来越担心特朗普会对此次行动的成果感到满意，并宣布行动结束。",
           "url": "https://wallstreetcn.com/livenews/3081056",
           "source": "华尔街见闻-快讯",
@@ -797,6 +813,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时56分 ~ 03时57分]"
+        },
+        {
+          "title": "美国总统特朗普通知司法部长Bondi，她的任期即将结束。（Semafor）",
+          "url": "https://wallstreetcn.com/livenews/3081669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时58分]"
         },
         {
           "title": "白带：特朗普将在黄金时段宣布战争即将结束，海峡责任全在北约",
@@ -878,17 +906,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "美国总统特朗普宣称，很快将签署命令，从而对国土安全部（DHS）所有雇员支付薪资。",
-          "url": "https://wallstreetcn.com/livenews/3081677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
         },
         {
           "title": "特朗普：伊朗战事取得压倒性胜利",
@@ -1021,17 +1038,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
-        },
-        {
-          "title": "美国总统特朗普通知司法部长Bondi，她的任期即将结束。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3081669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
         },
         {
           "title": "据阿联酋国家通讯社：阿联酋总统与美国总统特朗普讨论地区局势发展。",
@@ -1403,7 +1409,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1458,7 +1464,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1491,7 +1497,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1654,8 +1660,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时33分 ~ 22时52分]"
+          "appearance_count": 15,
+          "time_info": "[07时33分 ~ 23时58分]"
         },
         {
           "title": "巴菲特：押注苹果赚了1000亿但卖早了，目前美股不便宜、不抄底，预警银行体系脆弱迹象",
@@ -1681,6 +1687,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时34分 ~ 14时11分]"
+        },
+        {
+          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时52分 ~ 23时58分]"
         },
         {
           "title": "受美伊停火希望提振，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元关口",
@@ -1716,17 +1733,6 @@
           "time_info": "00时11分"
         },
         {
-          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
-          "url": "https://wallstreetcn.com/articles/3769052",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
           "title": "航空业ETF收涨2.6%，和半导体ETF领跑美股大类资产类ETF，能源业ETF跌超3.7%",
           "url": "https://wallstreetcn.com/livenews/3081109",
           "source": "华尔街见闻-快讯",
@@ -1749,6 +1755,19 @@
           "time_info": "06时34分"
         },
         {
+          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2333830",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时03分 ~ 23时58分]"
+        },
+        {
           "title": "美股三大指数高开 耐克跌超12%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E8%80%90%E5%85%8B%E8%B7%8C%E8%B6%8512%25",
           "source": "百度热搜",
@@ -1763,16 +1782,28 @@
           "time_info": "[00时10分 ~ 03时57分]"
         },
         {
-          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2333830",
+          "title": "什么信号？华尔街频频传来“避开美股”警告声……",
+          "url": "https://www.cls.cn/detail/2333333",
           "source": "财联社热门",
           "ranks": [
-            10,
-            8
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[21时03分 ~ 22时52分]"
+          "time_info": "[22时52分 ~ 23时58分]"
+        },
+        {
+          "title": "美股三大指数低开 特斯拉跌逾4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时52分 ~ 23时58分]"
         },
         {
           "title": "黄金ETF收涨超1.7%，领跑美股大类资产类ETF，布油基金则跌超3.2%",
@@ -1876,17 +1907,6 @@
           "time_info": "21时04分"
         },
         {
-          "title": "什么信号？华尔街频频传来“避开美股”警告声……",
-          "url": "https://www.cls.cn/detail/2333333",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
           "title": "全球星(GSAT.O)美股盘后涨超10%。",
           "url": "https://flash.jin10.com/detail/20260402064156553800",
           "source": "金十数据",
@@ -1896,17 +1916,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
-        },
-        {
-          "title": "美股三大指数低开 特斯拉跌逾4%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E9%80%BE4%25",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
         },
         {
           "title": "美股私募信贷公司股价盘前下跌，KKR下跌4.2%，凯雷集团下跌3.7%，阿波罗全球管理下跌4.3%。，蓝猫资本限制两只基金赎回。",
@@ -1988,11 +1997,12 @@
             20,
             26,
             25,
-            23
+            23,
+            15
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时10分 ~ 22时52分]"
+          "appearance_count": 22,
+          "time_info": "[00时10分 ~ 23时58分]"
         },
         {
           "title": "从泄露源码扒出Claude隐藏彩蛋",
@@ -2012,8 +2022,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时10分 ~ 22时52分]"
+          "appearance_count": 23,
+          "time_info": "[00时10分 ~ 23时58分]"
         },
         {
           "title": "Claude Code源码分析与复刻实现",
@@ -2029,11 +2039,12 @@
             28,
             29,
             26,
-            25
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时10分 ~ 22时52分]"
+          "appearance_count": 22,
+          "time_info": "[00时10分 ~ 23时58分]"
         },
         {
           "title": "UP主复现Claude Code代码漏洞",
@@ -2054,8 +2065,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时10分 ~ 22时52分]"
+          "appearance_count": 22,
+          "time_info": "[00时10分 ~ 23时58分]"
         },
         {
           "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
@@ -2112,6 +2123,17 @@
           "time_info": "[02时56分 ~ 05时39分]"
         },
         {
+          "title": "用Claude Code源码自制客户端",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Claude%20Code%E6%BA%90%E7%A0%81%E8%87%AA%E5%88%B6%E5%AE%A2%E6%88%B7%E7%AB%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时52分 ~ 23时58分]"
+        },
+        {
           "title": "ClaudeCode里到底藏了什么",
           "url": "https://search.bilibili.com/all?keyword=ClaudeCode%E9%87%8C%E5%88%B0%E5%BA%95%E8%97%8F%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -2122,17 +2144,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时04分 ~ 17时58分]"
-        },
-        {
-          "title": "用Claude Code源码自制客户端",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Claude%20Code%E6%BA%90%E7%A0%81%E8%87%AA%E5%88%B6%E5%AE%A2%E6%88%B7%E7%AB%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
         }
       ]
     },
@@ -2246,11 +2257,12 @@
             14,
             17,
             16,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时58分 ~ 22时52分]"
+          "appearance_count": 9,
+          "time_info": "[17时58分 ~ 23时58分]"
         },
         {
           "title": "阿里发布国产最强编程模型Qwen3.6-Plus",
