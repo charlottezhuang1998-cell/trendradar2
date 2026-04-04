@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T13:55:24.026664+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-04-04T14:56:14.574549+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时41分 ~ 13时55分]"
+          "appearance_count": 13,
+          "time_info": "[02时41分 ~ 14时56分]"
         },
         {
           "title": "特朗普正式对进口专利药品征收 100% 关税，为何其还能收关税，此举会对全球创新药市场产生多大影响？",
@@ -97,17 +97,6 @@
           "time_info": "[03时36分 ~ 07时31分]"
         },
         {
-          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
-          "url": "https://wallstreetcn.com/livenews/3082385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
           "title": "美国政府2027财年预算草案要点总结：特朗普“重武轻文”，大幅削减民生开支恐引发两党博弈",
           "url": "https://wallstreetcn.com/livenews/3082313",
           "source": "华尔街见闻-快讯",
@@ -175,6 +164,18 @@
           "time_info": "[06时29分 ~ 09时51分]"
         },
         {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://wallstreetcn.com/livenews/3082385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时56分]"
+        },
+        {
           "title": "特朗普：美国战机坠毁不会影响与伊朗的谈判",
           "url": "https://flash.jin10.com/detail/20260404034503573800",
           "source": "金十数据",
@@ -229,6 +230,17 @@
           "time_info": "[04时32分 ~ 07时31分]"
         },
         {
+          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
+          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 14时56分]"
+        },
+        {
           "title": "特朗普称美战机被击落不会影响与伊朗谈判",
           "url": "https://news.ifeng.com/c/8s2NeCx0C0O",
           "source": "凤凰网",
@@ -238,6 +250,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时50分 ~ 09时51分]"
+        },
+        {
+          "title": "特朗普一句话打回原形，市场为何这么容易上当？｜大师复盘",
+          "url": "https://flash.jin10.com/detail/20260404123540502800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时55分 ~ 14时56分]"
         },
         {
           "title": "特朗普已就美战机在伊朗被击落听取简报",
@@ -322,28 +346,6 @@
           "time_info": "[12时14分 ~ 13时55分]"
         },
         {
-          "title": "特朗普一句话打回原形，市场为何这么容易上当？｜大师复盘",
-          "url": "https://flash.jin10.com/detail/20260404123540502800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
-          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
           "url": "https://flash.jin10.com/detail/20260403233021951800",
           "source": "金十数据",
@@ -402,7 +404,7 @@
     },
     {
       "keyword_group": "Claude",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "Claude源码能否让全球AI工具大升级",
@@ -421,6 +423,28 @@
           "time_info": "[00时36分 ~ 12时14分]"
         },
         {
+          "title": "Claude禁止OpenClaw接入",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 14时56分]"
+        },
+        {
+          "title": "如何评价 Anthropic 封杀 OpenClaw，将其踢出 Claude 订阅服务的白名单？",
+          "url": "https://www.zhihu.com/question/2023715723785061711",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 14时56分]"
+        },
+        {
           "title": "Anthropic通过要求订阅用户额外付费，实际上将Openclaw从Claude中禁用。（The Verge）",
           "url": "https://wallstreetcn.com/livenews/3082355",
           "source": "华尔街见闻-快讯",
@@ -431,6 +455,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时51分 ~ 12时14分]"
+        },
+        {
+          "title": "如何解读 claude code 代码？",
+          "url": "https://www.zhihu.com/question/2022418574258520852",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 14时56分]"
         },
         {
           "title": "从源码剖析ClaudeCode对话流程",
@@ -459,11 +494,12 @@
             15,
             19,
             17,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时36分 ~ 13时55分]"
+          "appearance_count": 15,
+          "time_info": "[00时36分 ~ 14时56分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
