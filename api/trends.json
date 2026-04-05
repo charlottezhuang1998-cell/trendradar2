@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T18:31:25.639459+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-04-05T19:27:01.557463+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时08分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[13时08分 ~ 19时27分]"
+        },
+        {
+          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
+          "url": "https://wallstreetcn.com/articles/3769276",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时08分 ~ 19时27分]"
         },
         {
           "title": "特朗普再警告伊朗：“48小时内”可能采取进一步行动",
@@ -42,20 +56,6 @@
           "time_info": "[00时31分 ~ 07时27分]"
         },
         {
-          "title": "自周三以来“未公开露面”！特朗普“一反常态”低调，周末“不停工作”连海湖庄园都不去了",
-          "url": "https://wallstreetcn.com/articles/3769276",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时08分 ~ 18时31分]"
-        },
-        {
           "title": "【早报】中国驻以使馆提醒：远离民用基础设施；特朗普再次警告伊朗",
           "url": "https://www.cls.cn/detail/2335441",
           "source": "财联社热门",
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时03分 ~ 18时31分]"
+          "appearance_count": 12,
+          "time_info": "[10时03分 ~ 19时27分]"
         },
         {
           "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
@@ -95,8 +95,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时08分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[13时08分 ~ 19时27分]"
         },
         {
           "title": "伊朗军方拒绝特朗普“48小时”通牒",
@@ -109,8 +109,22 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时08分 ~ 19时27分]"
+        },
+        {
+          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
+          "url": "https://www.cls.cn/detail/2335478",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[13时08分 ~ 18时31分]"
+          "time_info": "[15时01分 ~ 19时27分]"
         },
         {
           "title": "美以伊战争丨美军第2名失联飞行员获救，特朗普发声",
@@ -160,17 +174,16 @@
           "time_info": "[07时27分 ~ 10时03分]"
         },
         {
-          "title": "伊朗拒绝特朗普“48小时”通牒！华尔街紧绷：4月6日后会发生什么？",
-          "url": "https://www.cls.cn/detail/2335478",
-          "source": "财联社热门",
+          "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
+          "url": "https://wallstreetcn.com/articles/3769266",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
             10,
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[15时01分 ~ 18时31分]"
+          "time_info": "[13时08分 ~ 19时27分]"
         },
         {
           "title": "美国总统特朗普在社交平台上发布了三张图片，内容分别是：特朗普担任美国总统的支持率高达96%，94%的受访人员认为特朗普是他们一生中遇到的最好的总统，以及万斯担任美国副总统的支持率为92%。",
@@ -187,6 +200,18 @@
           "time_info": "[05时29分 ~ 10时03分]"
         },
         {
+          "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
+          "url": "https://news.ifeng.com/c/8s4udkTiAOL",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时30分 ~ 19时27分]"
+        },
+        {
           "title": "美国总统特朗普：伊朗的许多军事领导人，领导得很糟糕，也很不明智。随着这次在德黑兰的大规模打击，他们和其他许多人都被终结了。",
           "url": "https://flash.jin10.com/detail/20260405044003027800",
           "source": "金十数据",
@@ -198,17 +223,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时25分 ~ 10时03分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-05）",
-          "url": "https://flash.jin10.com/detail/20260405180402647800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
         },
         {
           "title": "特朗普就其移民政策发表最新讲话",
@@ -224,18 +238,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时26分 ~ 10时03分]"
-        },
-        {
-          "title": "特朗普打的越猛，伊朗越强硬：霍尔木兹被推上谈判桌中央！",
-          "url": "https://wallstreetcn.com/articles/3769266",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时08分 ~ 18时31分]"
         },
         {
           "title": "美媒：特朗普在白宫战情室跟进失踪美军飞行员救援行动",
@@ -262,6 +264,30 @@
           "time_info": "[00时31分 ~ 01时27分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-05）",
+          "url": "https://flash.jin10.com/detail/20260405180402647800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时27分]"
+        },
+        {
+          "title": "周三演讲“效果不佳”、对“媒体报道”不满、对“战争后果”沮丧！特朗普正考虑“大规模改组”内阁",
+          "url": "https://wallstreetcn.com/articles/3769274",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时30分 ~ 19时27分]"
+        },
+        {
           "title": "特朗普警告伊朗：若48小时内不重新开放霍尔木兹海峡 将进一步升级行动",
           "url": "https://www.cls.cn/detail/2335423",
           "source": "财联社热门",
@@ -285,17 +311,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普想趁机卖油，美媒：结果可能让他后悔莫及",
-          "url": "https://news.ifeng.com/c/8s4udkTiAOL",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "特朗普：美军完成历史上“最大胆的搜救行动” 失踪飞行员均已获救",
@@ -344,17 +359,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时09分 ~ 15时01分]"
-        },
-        {
-          "title": "周三演讲“效果不佳”、对“媒体报道”不满、对“战争后果”沮丧！特朗普正考虑“大规模改组”内阁",
-          "url": "https://wallstreetcn.com/articles/3769274",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "美国前参议员表示特朗普已经住院",
@@ -514,6 +518,38 @@
       ]
     },
     {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Claude禁止OpenClaw接入",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            14,
+            13,
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 19时27分]"
+        },
+        {
+          "title": "从ClaudeCode源码看其竞争优势",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8EClaudeCode%E6%BA%90%E7%A0%81%E7%9C%8B%E5%85%B6%E7%AB%9E%E4%BA%89%E4%BC%98%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时26分 ~ 19时27分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -526,8 +562,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时36分 ~ 18时31分]"
+          "appearance_count": 5,
+          "time_info": "[17时36分 ~ 19时27分]"
         }
       ]
     },
@@ -545,27 +581,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Claude禁止OpenClaw接入",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E7%A6%81%E6%AD%A2OpenClaw%E6%8E%A5%E5%85%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            14,
-            13,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时31分 ~ 18时31分]"
         }
       ]
     }
