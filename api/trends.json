@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T13:08:52.125749+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-04-25T15:09:37.234807+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 13时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 15时09分]"
         },
         {
           "title": "特朗普的嘴，开了挂了",
@@ -86,8 +86,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 13时08分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 15时09分]"
         },
         {
           "title": "欧洲真的怕特朗普吗",
@@ -105,6 +105,21 @@
           "time_info": "[00时51分 ~ 04时42分]"
         },
         {
+          "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
+          "url": "https://wallstreetcn.com/livenews/3094320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            12,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时36分 ~ 15时09分]"
+        },
+        {
           "title": "特朗普称伊朗拟提出提议回应美方要求 伊方暂无回应",
           "url": "https://flash.jin10.com/detail/20260425033951908800",
           "source": "金十数据",
@@ -116,20 +131,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时49分 ~ 07时37分]"
-        },
-        {
-          "title": "美联邦法院裁定：特朗普边境庇护申请禁令违法",
-          "url": "https://wallstreetcn.com/livenews/3094320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时36分 ~ 13时08分]"
         },
         {
           "title": "以总理称与特朗普就伊朗问题进行了一次“极好的谈话”",
@@ -154,17 +155,6 @@
           "time_info": "07时37分"
         },
         {
-          "title": "解析特朗普与教皇冲突",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%95%99%E7%9A%87%E5%86%B2%E7%AA%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
           "title": "美国财长贝森特：特朗普政府高层每周都开会讨论AI模型。",
           "url": "https://wallstreetcn.com/livenews/3094244",
           "source": "华尔街见闻-快讯",
@@ -174,6 +164,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时44分"
+        },
+        {
+          "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
+          "url": "https://wallstreetcn.com/livenews/3094313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            11,
+            19,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时36分 ~ 15时09分]"
         },
         {
           "title": "特朗普发帖：只要半句话，美国就会多出1590亿美元",
@@ -202,6 +207,19 @@
           "time_info": "[03时49分 ~ 05时44分]"
         },
         {
+          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
+          "url": "https://wallstreetcn.com/livenews/3094328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 15时09分]"
+        },
+        {
           "title": "白宫表示，特朗普政府将迅速准备就庇护裁决提出上诉。",
           "url": "https://flash.jin10.com/detail/20260425011418453800",
           "source": "金十数据",
@@ -226,6 +244,18 @@
           "time_info": "[00时52分 ~ 01时46分]"
         },
         {
+          "title": "解析特朗普与教皇冲突",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%95%99%E7%9A%87%E5%86%B2%E7%AA%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 15时09分]"
+        },
+        {
           "title": "特朗普政府持有的英特尔股份价值飙升300%",
           "url": "https://wallstreetcn.com/livenews/3094213",
           "source": "华尔街见闻-快讯",
@@ -236,32 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时46分]"
-        },
-        {
-          "title": "特朗普起诉美财政部和国税局案遭法院质疑",
-          "url": "https://wallstreetcn.com/livenews/3094328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 13时08分]"
-        },
-        {
-          "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
-          "url": "https://wallstreetcn.com/livenews/3094313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            11,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时36分 ~ 13时08分]"
         },
         {
           "title": "特朗普：只要半句话，美国就能省下1590亿美元",
@@ -306,8 +310,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 13时08分]"
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 15时09分]"
         },
         {
           "title": "特朗普政府冻结3.44亿美元加密货币，借口是与伊朗有关联。（CNN）",
@@ -484,7 +488,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -514,7 +518,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -598,8 +602,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时51分 ~ 13时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时51分 ~ 15时09分]"
         },
         {
           "title": "万字回顾DeepSeek演进之路",
@@ -693,6 +697,20 @@
           "time_info": "[00时51分 ~ 02时44分]"
         },
         {
+          "title": "Deepseek V4第一波测评来了！",
+          "url": "https://wallstreetcn.com/articles/3770812",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时44分 ~ 15时09分]"
+        },
+        {
           "title": "月之暗面与DeepSeek的“听牌”时刻",
           "url": "https://www.toutiao.com/trending/7632324048923397668/",
           "source": "今日头条",
@@ -707,29 +725,16 @@
           "time_info": "[00时51分 ~ 03时49分]"
         },
         {
-          "title": "Deepseek V4第一波测评来了！",
-          "url": "https://wallstreetcn.com/articles/3770812",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时44分 ~ 13时08分]"
-        },
-        {
           "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
           "url": "https://www.zhihu.com/question/2031152992817243775",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 15时09分]"
         },
         {
           "title": "DeepSeekV4更新了啥",
@@ -738,9 +743,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 15时09分]"
         },
         {
           "title": "太初元碁完成DeepSeek-V4深度适配与协同优化",
@@ -749,7 +754,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -759,11 +764,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 13时08分]"
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 15时09分]"
         },
         {
           "title": "DeepSeek V4 发布",
@@ -803,6 +809,18 @@
           "time_info": "[07时37分 ~ 10时01分]"
         },
         {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 15时09分]"
+        },
+        {
           "title": "DeepSeekV4是怎么训练出来的",
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%98%AF%E6%80%8E%E4%B9%88%E8%AE%AD%E7%BB%83%E5%87%BA%E6%9D%A5%E7%9A%84",
           "source": "bilibili 热搜",
@@ -825,15 +843,15 @@
           "time_info": "10时01分"
         },
         {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
+          "title": "华为DCS AI解决方案全面支持DeepSeek-V4",
+          "url": "https://flash.jin10.com/detail/20260425130344279800",
+          "source": "金十数据",
           "ranks": [
-            18
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时08分"
+          "time_info": "15时09分"
         }
       ]
     },
@@ -879,6 +897,20 @@
           "time_info": "[00时51分 ~ 13时08分]"
         },
         {
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时36分 ~ 15时09分]"
+        },
+        {
           "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260425040603793800",
           "source": "金十数据",
@@ -901,19 +933,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时42分 ~ 07时37分]"
-        },
-        {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时36分 ~ 13时08分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）热门中概股行情一览（美股盘中）",
@@ -1009,6 +1028,18 @@
           "time_info": "[04时42分 ~ 06时36分]"
         },
         {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时08分 ~ 15时09分]"
+        },
+        {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
           "url": "https://wallstreetcn.com/livenews/3094203",
           "source": "华尔街见闻-快讯",
@@ -1019,17 +1050,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时52分 ~ 01时46分]"
-        },
-        {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
@@ -1132,7 +1152,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         },
@@ -1177,11 +1197,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时01分 ~ 13时08分]"
+          "appearance_count": 3,
+          "time_info": "[10时01分 ~ 15时09分]"
         }
       ]
     }
