@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T19:07:16.958489+08:00",
-  "total_titles_processed": 1300,
+  "generated_at": "2026-05-07T22:04:21.119321+08:00",
+  "total_titles_processed": 1468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 40,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -37,6 +37,18 @@
           "time_info": "[02时14分 ~ 10时32分]"
         },
         {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时31分 ~ 22时04分]"
+        },
+        {
           "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
           "url": "https://www.cls.cn/detail/2364367",
           "source": "财联社热门",
@@ -49,6 +61,17 @@
           "time_info": "[07时45分 ~ 16时48分]"
         },
         {
+          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
+          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时48分 ~ 22时04分]"
+        },
+        {
           "title": "为什么特朗普“不得不”常买中国货",
           "url": "https://news.ifeng.com/c/8sugghRWW2t",
           "source": "凤凰网",
@@ -59,18 +82,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 07时46分]"
-        },
-        {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时31分 ~ 19时07分]"
         },
         {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
@@ -98,17 +109,6 @@
           "time_info": "[01时04分 ~ 07时46分]"
         },
         {
-          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
-          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时48分 ~ 19时07分]"
-        },
-        {
           "title": "伊朗战争丨特朗普突然叫停“自由计划”内幕披露",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -120,6 +120,20 @@
           "time_info": "[13时58分 ~ 16时48分]"
         },
         {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时58分 ~ 22时04分]"
+        },
+        {
           "title": "特朗普称对伊行动“进展顺利” 强调封锁与谈判并行",
           "url": "https://flash.jin10.com/detail/20260507014044956800",
           "source": "金十数据",
@@ -129,6 +143,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "纽约准备批准一揽子广泛的移民保护措施，以反击特朗普。",
+          "url": "https://flash.jin10.com/detail/20260507215355912800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "报道称沙特不满迫使特朗普“突然”叫停“自由计划”",
@@ -175,19 +200,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时54分 ~ 07时46分]"
-        },
-        {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时58分 ~ 19时07分]"
         },
         {
           "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
@@ -257,6 +269,17 @@
           "time_info": "07时46分"
         },
         {
+          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
+          "url": "https://wallstreetcn.com/articles/3771704",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "美国总统特朗普：我们将从伊朗获取浓缩铀。",
           "url": "https://flash.jin10.com/detail/20260507012738943800",
           "source": "金十数据",
@@ -288,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：与美国总统特朗普保持着“几乎每日”的联系，在美方就对伊和平问题展开谈判时，将“不会有任何意外”。",
+          "url": "https://flash.jin10.com/detail/20260507214625285800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "【巴基斯坦消息人士：美伊接近达成停战谅解备忘录】据美国方面消息，一名巴基斯坦消息人士6日表示，美国和伊朗正接近达成一份旨在结束战争的谅解备忘录。同一天，据披露，两名美国官员及另外两名知情人士透露，特朗普政府认为，与伊朗接近达成一份一页的谅解备忘录。该备忘录旨在结束战争，并为更详细的核问题谈判设定框架。（央视）",
@@ -436,7 +470,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -446,8 +480,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时48分 ~ 19时07分]"
+          "appearance_count": 10,
+          "time_info": "[06时48分 ~ 22时04分]"
         },
         {
           "title": "美股收盘：纳指、标普再创新高 AMD、康宁接力暴涨 中概股表现亮眼",
@@ -488,6 +522,20 @@
           "time_info": "[01时04分 ~ 10时32分]"
         },
         {
+          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
+          "url": "https://wallstreetcn.com/articles/3771684",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时31分 ~ 22时04分]"
+        },
+        {
           "title": "Snap收涨0.33%，美股盘后跌9.17%。",
           "url": "https://wallstreetcn.com/livenews/3099620",
           "source": "华尔街见闻-快讯",
@@ -499,17 +547,15 @@
           "time_info": "07时46分"
         },
         {
-          "title": "警报响起！30年期美债收益率再逼5%警戒线，美股的狂欢还能维持多久？",
-          "url": "https://wallstreetcn.com/articles/3771684",
+          "title": "等待伊朗回应和平协议，美股小幅高开，苹果股价创新高，美油跌4%，白银大涨5%重回80美元",
+          "url": "https://wallstreetcn.com/articles/3771708",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            10,
-            8
+            3
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时31分 ~ 19时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
@@ -522,6 +568,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时33分 ~ 05时55分]"
+        },
+        {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时06分 ~ 22时04分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -537,17 +595,6 @@
           "time_info": "[01时04分 ~ 06时48分]"
         },
         {
-          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
-          "url": "https://wallstreetcn.com/articles/3771706",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时06分 ~ 19时07分]"
-        },
-        {
           "title": "美股大类资产类ETF普遍收涨，新兴市场ETF涨3.2%，黄金ETF涨3%，布油基金跌约8%",
           "url": "https://wallstreetcn.com/livenews/3099572",
           "source": "华尔街见闻-快讯",
@@ -558,6 +605,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时48分]"
+        },
+        {
+          "title": "美股三大股指小幅高开，标普500指数涨0.09%，道指涨0.39%，纳指涨0.14%。ARM下跌7%，因AI芯片供应担忧盖过乐观业绩指引。美股AI应用软件股走强，Datadog涨超30%，Snowflake涨10%，MongoDB涨12%。光通信板块走低，Coherent跌超5%，Credo、Lumentum跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3100035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股盘中）",
@@ -580,6 +638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "美伊接近重启谈判 美股再冲新高 布油跌破97美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2365305",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
@@ -615,6 +684,28 @@
           "time_info": "16时48分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3100025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "金十图示：2026年05月07日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260507214244190800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
           "title": "美股收盘：英伟达市值重回5万亿 金龙指数涨3.4%",
           "url": "https://flash.jin10.com/detail/20260507040122273800",
           "source": "金十数据",
@@ -646,6 +737,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时14分"
+        },
+        {
+          "title": "美股AI应用软件股走强，Datadog涨超30%，Snowflake涨10%，MongoDB涨12%。",
+          "url": "https://flash.jin10.com/detail/20260507213139386800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时04分"
         }
       ]
     },
