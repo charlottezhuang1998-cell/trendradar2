@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-09T19:47:55.593903+08:00",
-  "total_titles_processed": 1305,
+  "generated_at": "2026-05-09T21:07:43.922933+08:00",
+  "total_titles_processed": 1374,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "time_info": "[01时11分 ~ 07时54分]"
         },
         {
+          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
+          "url": "https://news.ifeng.com/c/8syALbeUOvl",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时31分 ~ 21时07分]"
+        },
+        {
           "title": "特朗普称中美元首会谈将按计划举行，外交部：目前无进一步信息提供",
           "url": "https://m.thepaper.cn/newsDetail_forward_33121956",
           "source": "澎湃新闻",
@@ -44,18 +56,6 @@
           "time_info": "[01时11分 ~ 15时52分]"
         },
         {
-          "title": "受够了！德国喊话多国组建对抗特朗普新联盟",
-          "url": "https://news.ifeng.com/c/8syALbeUOvl",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时31分 ~ 19时47分]"
-        },
-        {
           "title": "近60万买家斥资6000万美元预购特朗普手机，却没人知道发货时间",
           "url": "https://news.ifeng.com/c/8sytAKXfO4y",
           "source": "凤凰网",
@@ -63,8 +63,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时31分 ~ 19时47分]"
+          "appearance_count": 9,
+          "time_info": "[10时31分 ~ 21时07分]"
         },
         {
           "title": "中方回应何时发布特朗普访华消息",
@@ -167,6 +167,18 @@
           "time_info": "[01时11分 ~ 03时11分]"
         },
         {
+          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
+          "url": "https://wallstreetcn.com/articles/3771883",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时15分 ~ 21时07分]"
+        },
+        {
           "title": "英特尔大涨！与苹果达成初步芯片制造协议，特朗普政府居中撮合",
           "url": "https://wallstreetcn.com/articles/3771870",
           "source": "华尔街见闻",
@@ -179,16 +191,16 @@
           "time_info": "[15时51分 ~ 18时54分]"
         },
         {
-          "title": "特朗普：可能恢复“自由计划”行动，伊朗：正制定霍尔木兹海峡相关法律草案",
-          "url": "https://wallstreetcn.com/articles/3771883",
-          "source": "华尔街见闻",
+          "title": "俄方同意特朗普提出的停火方案",
+          "url": "https://www.toutiao.com/trending/7637290812788162601/",
+          "source": "今日头条",
           "ranks": [
-            9,
-            8
+            17,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时15分 ~ 19时47分]"
+          "time_info": "[13时45分 ~ 21时07分]"
         },
         {
           "title": "美国总统特朗普：预计今晚将会听到来自伊朗的消息。（白宫记者团笔记）",
@@ -225,17 +237,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时11分 ~ 03时11分]"
-        },
-        {
-          "title": "俄方同意特朗普提出的停火方案",
-          "url": "https://www.toutiao.com/trending/7637290812788162601/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 13时46分]"
         },
         {
           "title": "中情局报告泄了特朗普的底",
@@ -583,8 +584,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时31分 ~ 19时47分]"
+          "appearance_count": 9,
+          "time_info": "[10时31分 ~ 21时07分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -596,8 +597,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时54分 ~ 19时47分]"
+          "appearance_count": 10,
+          "time_info": "[07时54分 ~ 21时07分]"
         },
         {
           "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
@@ -747,8 +748,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时31分 ~ 19时47分]"
+          "appearance_count": 9,
+          "time_info": "[10时31分 ~ 21时07分]"
         },
         {
           "title": "DeepSeek识图模式大范围开放",
@@ -762,8 +763,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时45分 ~ 19时47分]"
+          "appearance_count": 8,
+          "time_info": "[13时45分 ~ 21时07分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -773,11 +774,12 @@
             4,
             5,
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时52分 ~ 19时47分]"
+          "appearance_count": 5,
+          "time_info": "[15时52分 ~ 21时07分]"
         },
         {
           "title": "阿里未参与DeepSeek融资谈判，市场人士否认“谈崩”传闻",
@@ -785,11 +787,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时54分 ~ 19时47分]"
+          "appearance_count": 3,
+          "time_info": "[18时54分 ~ 21时07分]"
         },
         {
           "title": "DeepSeek正式跨入图文交互时代",
@@ -881,8 +884,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时45分 ~ 19时47分]"
+          "appearance_count": 7,
+          "time_info": "[13时45分 ~ 21时07分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -891,11 +894,12 @@
           "ranks": [
             11,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 19时47分]"
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 21时07分]"
         },
         {
           "title": "彻底撕破脸了！OpenAI官司法庭辩论上演“人身攻击”：马斯克“不懂AI且暴躁”，Altman“人品低劣又虚伪”",
@@ -905,8 +909,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 19时47分]"
+          "appearance_count": 3,
+          "time_info": "[17时15分 ~ 21时07分]"
         }
       ]
     }
