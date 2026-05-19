@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-19T12:57:19.586460+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-05-19T16:25:34.211402+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普连发15张图分享中国记忆",
@@ -56,6 +56,17 @@
           "time_info": "[01时57分 ~ 08时04分]"
         },
         {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 16时25分]"
+        },
+        {
           "title": "特朗普谈入股英特尔：后悔当初只拿10%股份，“应该多要一点”",
           "url": "https://www.cls.cn/detail/2374617",
           "source": "财联社热门",
@@ -67,17 +78,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时57分 ~ 12时57分]"
-        },
-        {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
         },
         {
           "title": "特朗普：取消原定于明天的对伊军事打击",
@@ -100,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
+        },
+        {
+          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
+          "url": "https://www.cls.cn/detail/2375112",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "美、布两油短线大幅跳水，现货金银快速拉升。特朗普称，应中东国家请求暂缓原定于明天进行的对伊朗的攻击。",
@@ -176,8 +187,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 16时25分]"
         },
         {
           "title": "特朗普：中东盟友请求推迟对伊打击以促成协议",
@@ -190,6 +201,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 08时04分]"
+        },
+        {
+          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
+          "url": "https://www.cls.cn/detail/2374803",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 16时25分]"
         },
         {
           "title": "特朗普：将推迟攻击伊朗",
@@ -245,7 +268,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -322,18 +345,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
-        },
-        {
-          "title": "特朗普称将推迟对伊朗发动军事打击 SpaceX正式启动拆股计划 | 环球市场",
-          "url": "https://www.cls.cn/detail/2374803",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -415,13 +427,24 @@
           "time_info": "06时57分"
         },
         {
+          "title": "特朗普暗示日本过头了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%9A%97%E7%A4%BA%E6%97%A5%E6%9C%AC%E8%BF%87%E5%A4%B4%E4%BA%86%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "特朗普称美国对台政策没变，外交部：两岸统一才是光明大道",
           "url": "https://m.thepaper.cn/newsDetail_forward_33193117",
           "source": "澎湃新闻",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
         },
@@ -619,6 +642,17 @@
       "match_count": 15,
       "titles": [
         {
+          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
+          "url": "https://wallstreetcn.com/articles/3772473",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时57分 ~ 16时25分]"
+        },
+        {
           "title": "美伊局势缓和，美股高开，半导体股普涨，油价回落，黄金小幅上涨",
           "url": "https://wallstreetcn.com/articles/3772473",
           "source": "华尔街见闻",
@@ -630,17 +664,6 @@
           "time_info": "[01时57分 ~ 05时07分]"
         },
         {
-          "title": "谈判前景反复无常，油价先跌后涨，美股承压，科技股领跌",
-          "url": "https://wallstreetcn.com/articles/3772473",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时57分 ~ 12时57分]"
-        },
-        {
           "title": "【早报】美股存储、半导体板块大跌；特朗普：暂缓对伊打击",
           "url": "https://www.cls.cn/detail/2374806",
           "source": "财联社热门",
@@ -649,8 +672,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时04分 ~ 12时57分]"
+          "appearance_count": 3,
+          "time_info": "[08时04分 ~ 16时25分]"
         },
         {
           "title": "美股收盘：标普纳指连跌两日 存储概念股、芯片板块整体走弱",
@@ -659,11 +682,12 @@
           "ranks": [
             11,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时57分 ~ 12时57分]"
+          "appearance_count": 4,
+          "time_info": "[06时57分 ~ 16时25分]"
         },
         {
           "title": "周一（5月18日），美股存储芯片与硬件供应链指数跌5.25%，报172.53点。 成分股全线溃败，希捷科技跌6.87%，美光科技跌5.95%，Sandisk跌5.30%，应用材料跌5.28%，泰瑞达跌4.98%，西部数据跌4.84%，Rambus跌2.59%，拉姆研究跌2.37%。",
@@ -705,11 +729,12 @@
           "url": "https://www.cls.cn/detail/2374855",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时57分 ~ 16时25分]"
         },
         {
           "title": "大豆基金收涨1.9%，与农产品基金领跑美股大类资产类ETF，小盘股指ETF跌约0.6%",
@@ -848,6 +873,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
+          "url": "https://www.cls.cn/detail/2374982",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         }
       ]
     },
