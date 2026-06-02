@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T16:25:14.179117+08:00",
-  "total_titles_processed": 920,
+  "generated_at": "2026-06-02T20:38:13.263302+08:00",
+  "total_titles_processed": 1133,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "戏剧性一幕，特朗普被迫打了一个电话",
@@ -20,6 +20,18 @@
           "time_info": "[11时32分 ~ 16时25分]"
         },
         {
+          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
+          "url": "https://wallstreetcn.com/articles/3773609",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时32分 ~ 20时38分]"
+        },
+        {
           "title": "一波三折！伊朗叫停对话后，特朗普最新表态：美伊或一周内达成协议",
           "url": "https://www.cls.cn/detail/2387782",
           "source": "财联社热门",
@@ -30,6 +42,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时32分 ~ 16时25分]"
+        },
+        {
+          "title": "特朗普再发5张照片回味中国",
+          "url": "https://news.ifeng.com/c/8td32CwSj89",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
         },
         {
           "title": "特朗普怒斥以总理疯了：如果不是我，你早就进监狱了",
@@ -88,18 +111,6 @@
           "time_info": "01时29分"
         },
         {
-          "title": "特朗普操纵“美伊叙事”：先说“不在乎谈判成不成”，后发帖“预计一周内达成协议”，称“以黎停火”，但以色列要继续行动",
-          "url": "https://wallstreetcn.com/articles/3773609",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 16时25分]"
-        },
-        {
           "title": "美国总统特朗普：将询问内塔尼亚胡（与黎巴嫩真主党）发生了什么。（CNBC）",
           "url": "https://wallstreetcn.com/livenews/3112590",
           "source": "华尔街见闻-快讯",
@@ -156,6 +167,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 11时32分]"
+        },
+        {
+          "title": "特朗普：以色列和黎真主党的所有交火行动将立即停止，与伊朗谈判正“快速推进”",
+          "url": "https://wallstreetcn.com/articles/3773600",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
         },
         {
           "title": "美学者破防，“特朗普现在对中国，比对加拿大都亲”",
@@ -329,7 +351,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -403,7 +425,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
@@ -446,9 +468,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
+        },
+        {
+          "title": "IBM美股盘前短线拉升，跌幅一度收窄至2%，公司承诺在未来五年投入逾100亿美元用于量子计算。",
+          "url": "https://wallstreetcn.com/livenews/3113069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
@@ -485,6 +518,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时29分 ~ 11时32分]"
+        },
+        {
+          "title": "这一幕像极了互联网泡沫破裂前夕！美股陷入极端“窄牛” 华尔街拉响警报",
+          "url": "https://www.cls.cn/detail/2388081",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，地产ETF、黄金ETF至少跌1.4%，布油基金涨超3.7%",
@@ -529,6 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "超微电脑(SMCI.O)美股盘前涨4.6%，与Arm合作推出节能型AI服务器。",
+          "url": "https://flash.jin10.com/detail/20260602200501660800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时38分"
         },
         {
           "title": "金十图示：2026年06月01日（周一）热门中概股行情一览（美股盘中）",
@@ -600,7 +655,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
@@ -608,11 +663,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时32分 ~ 16时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时32分 ~ 20时38分]"
         },
         {
           "title": "谷歌(GOOG.O)美股盘后跌1.7%。",
@@ -635,6 +691,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
+        },
+        {
+          "title": "伯克希尔投资100亿美元加码谷歌",
+          "url": "https://www.douyin.com/hot/2520581",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时37分"
         },
         {
           "title": "伊朗叫停与美谈判并威胁再封一海峡！特朗普声称“已扭转局面”；欧佩克或提高7月原油产量配额，伯克希尔计划向谷歌投资百亿美元……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
@@ -690,8 +757,19 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 20时38分]"
+        },
         {
           "title": "腾讯云：下调DeepSeek-V4系列模型价格，最高降幅97.5%",
           "url": "https://wallstreetcn.com/livenews/3112923",
@@ -699,7 +777,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         }
